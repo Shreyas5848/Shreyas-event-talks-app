@@ -1,0 +1,105 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  background-color: #121212;
+  color: #EAEAEA;
+}
+
+header {
+  background: #1A1A1A;
+  color: #FFFFFF;
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid #333333;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.search-container {
+  margin-top: 1rem;
+}
+
+#search-bar {
+  width: 80%;
+  max-width: 400px;
+  padding: 0.8rem;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  background-color: #282828;
+  color: #EAEAEA;
+  font-size: 1rem;
+}
+
+#search-bar:focus {
+    outline: none;
+    border-color: #5A5AFF;
+}
+
+#schedule-container {
+  width: 90%;
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.schedule-item {
+  background-color: #1E1E1E;
+  border: 1px solid #333333;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  display: flex;
+  transition: transform 0.2s;
+}
+
+.schedule-item:hover {
+    transform: translateY(-5px);
+}
+
+.time-slot {
+  width: 120px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #8A8AFF;
+}
+
+.talk-details {
+  flex-grow: 1;
+}
+
+.talk-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: #B4B4FF;
+}
+
+.speakers {
+  font-style: italic;
+  margin-bottom: 1rem;
+  color: #A0A0A0;
+}
+
+.categories {
+  margin-top: 1rem;
+}
+
+.category {
+  display: inline-block;
+  background-color: #BA55D3;
+  color: #FFFFFF;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.break {
+  font-style: italic;
+  color: #8A8AFF;
+  text-align: center;
+  padding: 1rem;
+}

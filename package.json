@@ -1,0 +1,12 @@
+{
+  "name": "tech-talk-website",
+  "version": "1.0.0",
+  "description": "A simple website for a one-day technical talk event.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

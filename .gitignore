@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Gemini CLI specific
+.geminiignore
