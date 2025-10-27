@@ -4,6 +4,7 @@
     "speakers": ["Aarav Sharma"],
     "categories": ["AI", "CLI", "Development"],
     "duration": 60,
+    "time": "10:00 AM",
     "description": "An in-depth look at the new Gemini CLI, its features, and how it can boost your productivity."
   },
   {
@@ -11,6 +12,7 @@
     "speakers": ["Diya Patel", "Rohan Mehta"],
     "categories": ["AI", "News", "Trends"],
     "duration": 60,
+    "time": "11:00 AM",
     "description": "A roundup of the most exciting and impactful news in the world of Artificial Intelligence from the past year."
   },
   {
@@ -18,6 +20,7 @@
     "speakers": ["Isha Singh"],
     "categories": ["AI", "LLM", "NLP"],
     "duration": 60,
+    "time": "12:00 PM",
     "description": "A deep dive into the architecture and capabilities of Large Language Models, and their future potential."
   },
   {
@@ -25,6 +28,7 @@
     "speakers": ["Kabir Gupta"],
     "categories": ["Infrastructure", "Servers", "MCP"],
     "duration": 60,
+    "time": "01:00 PM",
     "description": "Exploring the latest in MCP server technology, performance benchmarks, and best practices for deployment."
   },
   {
@@ -32,6 +36,7 @@
     "speakers": ["Anika Reddy", "Arjun Kumar"],
     "categories": ["Data Science", "Analytics", "Machine Learning"],
     "duration": 60,
+    "time": "02:00 PM",
     "description": "Practical case studies and real-world examples of how data science is being used to solve complex problems."
   },
   {
@@ -39,6 +44,7 @@
     "speakers": ["Zara Khan"],
     "categories": ["AI", "Social Impact", "Governance"],
     "duration": 60,
+    "time": "03:00 PM",
     "description": "A presentation on how Artificial Intelligence can be leveraged to accelerate the development of a nation."
   }
 ]

@@ -11,9 +11,16 @@
 </head>
 <body>
   <header>
-    <h1>Technical Talk by Industry Experts</h1>
+    <h1>Technical Talk Schedule</h1>
     <div class="search-container">
-      <input type="text" id="search-bar" placeholder="Search by category...">
+      <input type="text" id="search-bar" placeholder="Search by title, speaker, or topic...">
+    </div>
+    <div class="filter-container">
+      <button class="filter-btn active" data-category="all">All</button>
+      <button class="filter-btn" data-category="AI/ML">AI/ML</button>
+      <button class="filter-btn" data-category="Web Development">Web Development</button>
+      <button class="filter-btn" data-category="Cybersecurity">Cybersecurity</button>
+      <button class="filter-btn" data-category="Cloud Computing">Cloud Computing</button>
     </div>
   </header>
   <main id="schedule-container">
