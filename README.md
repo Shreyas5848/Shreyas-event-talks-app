@@ -27,3 +27,8 @@ This is a simple, single-page web application that displays the schedule for a o
     npm start
     ```
 4.  Open your browser and navigate to `http://localhost:3000`.
+
+## Screenshot
+
+![Screenshot of the UI](./localhost_3000_.png)
+
